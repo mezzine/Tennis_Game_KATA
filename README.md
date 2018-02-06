@@ -1,11 +1,7 @@
 # Tennis_Game_KATA
 
  
-Les joueurs doivent être capables de marquer des points.
-Le set doit être fini avec un gagnant.
-Après qu'une partie soit gagnée, le joueur gagnant doit être déterminé.
-On doit pouvoir suivre le score de chaque joueur à tout moment durant la partie.
-  
+This is my implementation of the the Tennis game KATA:  
  
 SPRINT1 : manage a tennis GAME within a set of a tennis match
 User Story 1 :
